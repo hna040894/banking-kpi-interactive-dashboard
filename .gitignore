@@ -1,0 +1,12 @@
+# R specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Shiny specific
+rsconnect/
+
+# System files
+.DS_Store
+Thumbs.db
